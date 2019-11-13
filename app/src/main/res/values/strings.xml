@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo App Chaewang Tamang</string>
+    <string name="hint">Enter Task</string>
+    <string name="repoLink">https://github.com/chaewang</string>
+    <string name="insta">http://instagram.com/_u/chaewang.tamang</string>
+    <string name="github">https://github.com/chaewang</string>
+    <string name="linkedin">https://linkedin.com/in/chaewang-tamang</string>
+    <string name="twitter">https://twitter.com/chaewang</string>
+    <string name="notification_reminder">Deadline is approaching, complete your work!</string>
+
+</resources>
